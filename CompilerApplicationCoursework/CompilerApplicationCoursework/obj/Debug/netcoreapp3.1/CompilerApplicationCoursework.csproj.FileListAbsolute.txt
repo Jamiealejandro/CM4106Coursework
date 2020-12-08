@@ -1,0 +1,4 @@
+C:\Users\Jamie Chapman\Desktop\Uni work\Year 4\CompilerApplicationCoursework\CompilerApplicationCoursework\obj\Debug\netcoreapp3.1\CompilerApplicationCoursework.csprojAssemblyReference.cache
+C:\Users\Jamie Chapman\Desktop\Uni work\Year 4\CompilerApplicationCoursework\CompilerApplicationCoursework\obj\Debug\netcoreapp3.1\CompilerApplicationCoursework.AssemblyInfoInputs.cache
+C:\Users\Jamie Chapman\Desktop\Uni work\Year 4\CompilerApplicationCoursework\CompilerApplicationCoursework\obj\Debug\netcoreapp3.1\CompilerApplicationCoursework.AssemblyInfo.cs
+C:\Users\Jamie Chapman\Desktop\Uni work\Year 4\CompilerApplicationCoursework\CompilerApplicationCoursework\obj\Debug\netcoreapp3.1\CompilerApplicationCoursework.csproj.CoreCompileInputs.cache
